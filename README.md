@@ -24,26 +24,23 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop design: ![alt text](image.png)
-- Mobile design: ![alt text](<Screen Shot 2024-02-27 at 16.05.17.png>)
+- Desktop design:
+- ![alt text](image.png)
+- Mobile design:
+- ![alt text](<Screen Shot 2024-02-27 at 16.05.17.png>)
 
 ### Links
-
 - Solution URL: https://github.com/LisFoxG/Blog_preview_card
 - Live Site URL: https://lisfoxg.github.io/Blog_preview_card
 
 
 
 ### Built with
-
 - Semantic HTML5 markup
 - CSS Grid
 
 
-
 ## Author
-
-
 - Frontend Mentor - https://www.frontendmentor.io/profile/LisFoxG
 
 
